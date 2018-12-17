@@ -112,7 +112,7 @@ AddOutputFilter chunkFilter
 		<Property Name="target.webservices.ValidTimestampWindow" Type="Int">15</Property>
 		<Item Name="Support Code" Type="Folder">
 			<Item Name="Elapsed Times.vi" Type="VI" URL="../Elapsed Times.vi"/>
-			<Item Name="navX Library v2.lvlib" Type="Library" URL="../../../GitHub/FIRST-3958-Controls-Library/NavX/navX Library v2/navX Library v2.lvlib"/>
+			<Item Name="navX Library v2.lvlib" Type="Library" URL="../../FIRST-3958-Controls-Library/NavX/navX Library v2/navX Library v2.lvlib"/>
 		</Item>
 		<Item Name="Team Code" Type="Folder">
 			<Item Name="Autonomous Independent.vi" Type="VI" URL="../Autonomous Independent.vi"/>
@@ -559,14 +559,14 @@ AddOutputFilter chunkFilter
 				<Item Name="WPI_UtilitiesTimebaseConstants.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Utilities/WPI_UtilitiesTimebaseConstants.vi"/>
 				<Item Name="Write Value Core.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/Network Tables/Write Value Core.vi"/>
 			</Item>
-			<Item Name="FeetToTicks.vi" Type="VI" URL="../../../GitHub/2018-Robot/FeetToTicks.vi"/>
+			<Item Name="FeetToTicks.vi" Type="VI" URL="../../2018-Robot/FeetToTicks.vi"/>
 			<Item Name="FRC_NetworkCommunication.dll" Type="Document" URL="FRC_NetworkCommunication.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
 			<Item Name="libc.so.6" Type="Document" URL="libc.so.6">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
-			<Item Name="NI WPI Serial USB.lvlib" Type="Library" URL="../../../GitHub/FIRST-3958-Controls-Library/NavX/NI WPI/NI WPI Serial USB.lvlib"/>
+			<Item Name="NI WPI Serial USB.lvlib" Type="Library" URL="../../FIRST-3958-Controls-Library/NavX/NI WPI/NI WPI Serial USB.lvlib"/>
 			<Item Name="NiFpgaLv.dll" Type="Document" URL="NiFpgaLv.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
